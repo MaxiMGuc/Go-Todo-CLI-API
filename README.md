@@ -29,4 +29,5 @@ Here are each of the command-line inputs the user can supply, and what they do:
 <img width="776" height="398" alt="Снимок экрана 2025-09-22 в 1 33 01 PM" src="https://github.com/user-attachments/assets/d3f7f6b3-1a55-48b8-99e6-dfe3de1fefbf" />
 
 View in Terminal
+
 <img width="609" height="171" alt="Снимок экрана 2025-09-22 в 1 37 06 PM" src="https://github.com/user-attachments/assets/0d1c58ba-1482-4686-8384-fcb9e49ecf5d" />
